@@ -2,8 +2,7 @@
 ## App Preview
 ![app-preview](JavaScript-Calculator.gif)
 
-## App
-![github-pages](https://rnwego.github.io/JavaScript-Calculator/)
+## [App](https://rnwego.github.io/JavaScript-Calculator/)
 
 - [x] Uses ES6 classes
 - [x] Uses Vanilla Js for functionality; HTML and CSS for design
